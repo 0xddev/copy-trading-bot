@@ -94,6 +94,6 @@ npm run start
 
 ## **Author**
 
-Developed by **U_KNOWN** | [Telegram](https://t.me/u_known1111)
+Developed by **DDev05** | [Telegram](https://t.me/ddev05)
 
 ---
